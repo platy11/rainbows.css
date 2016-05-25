@@ -1,0 +1,12 @@
+@keyframes rainbows-a-a {
+  10% { background-color: pink; }
+  20% { background-color: red; }
+  30% { background-color: orange; }
+  40% { background-color: yellow; }
+  50% { background-color: #3DE13D; }
+  60% { background-color: green; }
+  70% { background-color: #60B3CE;}
+  80% { background-color: blue; }
+  90% { background-color: #C000C0; }
+  100% { backgroun-color: #600060; }
+}
